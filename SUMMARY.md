@@ -1,6 +1,15 @@
 # Summary
 
 * [Introduction](README.md)
-* [First Chapter](chapter1.md)
-* [Second Chapter](second-chapter.md)
+* [Getting Started](chapter1.md)
+* [How to Get Support](second-chapter.md)
+* [Contacting Support](contacting-support.md)
+* [Oncall](oncall-policy.md)
+* Expectations of the support team
+* Bootcamp
+* Tools
+* Handling ZenDesk tickets
+* [Team member is OOO](team-member-is-ooo(out-of-office)
+* Support Vision
+* Recources
 
