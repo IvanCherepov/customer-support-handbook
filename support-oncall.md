@@ -11,3 +11,11 @@ We use [PagerDuty](http://gitlab.pagerduty.com/) to set the on-call schedules an
 
 From Slack you can find out who is oncall by using the command`/oncall` . The support engineer oncall is listed next to the `CoreOS Customer Support`entry.
 
+
+
+### More Information
+
+Pagerduty published great information for being on-call https://response.pagerduty.com/oncall/being\_oncall/. 
+
+
+

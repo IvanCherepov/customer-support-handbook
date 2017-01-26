@@ -13,4 +13,5 @@
 * [Oncall](support-oncall.md)
 * [Getting Support](getting-support.md)
 * [Problem Customers](problem-customers.md)
+* [Troubleshooting](troubleshooting.md)
 
