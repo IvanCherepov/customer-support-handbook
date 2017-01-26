@@ -4,12 +4,12 @@
 * [Getting Started](chapter1.md)
 * [How to Get Support](how-to-get-support.md)
 * [Contacting Support](contacting-support.md)
-* [Oncall](oncall-policy.md)
-* Expectations of the support team
+* [Expectations of the support team](expectations-of-the-support-team.md)
 * Bootcamp
 * [Support Vision](support-vision.md)
-* Tools
-* Handling ZenDesk tickets
+* [Tools](tools.md)
+* [Handling ZenDesk tickets](handling-zendesk-tickets.md)
 * [Support Vision](support-vision.md)
-* Recources
+* [Recources](recources.md)
+* [Support Oncall](support-oncall.md)
 
