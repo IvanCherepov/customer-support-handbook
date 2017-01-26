@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Getting Started](chapter1.md)
-* [Contacting Support](contacting-support.md)
+* [Our Tools](contacting-support.md)
 * [Expectations of the support team](expectations-of-the-support-team.md)
 * Bootcamp
 * [Vision](support-vision.md)
