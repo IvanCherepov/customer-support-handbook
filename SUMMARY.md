@@ -4,7 +4,7 @@
 * [Getting Started](chapter1.md)
 * [Our Tools](contacting-support.md)
 * [Expectations of the support team](expectations-of-the-support-team.md)
-* Bootcamp
+* [Bootcamp](bootcamp.md)
 * [Vision](support-vision.md)
 * [Tools](tools.md)
 * [Handling ZenDesk tickets](handling-zendesk-tickets.md)
