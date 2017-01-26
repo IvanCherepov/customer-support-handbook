@@ -3,7 +3,10 @@ As members of the support team we are the first to interact with someone when th
 * Always be friendly and respectful.
 * Be open to new ideas and points of view.
 * It is OK if you don't know something. You can always ask someone else.
-* It is OK to say no to a customer, but try to suggest a workaround and escalate to a Senior if necessary.
+* It is OK to say no to a customer, but try to suggest a workaround and escalate if necessary.
+* Be enthusiastic, fast, agile, happy to be here and eager to help
+* Make our users’s day better, to teach them how do to things, to surprise them with speed and accuracy.
+* Become leaders in the support industry.
 
 
 
