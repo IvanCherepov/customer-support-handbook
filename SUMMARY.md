@@ -6,7 +6,7 @@
 * [Expectations of the support team](expectations-of-the-support-team.md)
 * [Bootcamp](bootcamp.md)
 * [Vision](support-vision.md)
-* [Tools](tools.md)
+* [Support Policy](tools.md)
 * [Handling ZenDesk tickets](handling-zendesk-tickets.md)
 * [Support Vision](support-vision.md)
 * [Recources](recources.md)
