@@ -10,15 +10,15 @@ Your expectations in your first 12 months:
 
 * Learn our product suite and our ecosystem. Demonstrate that through things like
 
-* Getting 2 OSS projects running on Tectonic
+  * Getting 2 OSS projects running on Tectonic
 
-* Run infrastructure on CoreOS products
+  * Run infrastructure on CoreOS products
 
 * Proactively look for ways to improve support, our products, and the company as a whole
 
 * Proactively build relationships and trust with your colleagues across the company so that you find mentors and grow your influence and impact.
 
-* As an early member of the support team, help shape a fun, learning, collaborative, operationally excellent team culturure
+* As an early member of the support team, help shape a fun, learning, collaborative, operationally excellent team culturure.
 
 Onboarding timeline:
 
