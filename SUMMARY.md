@@ -11,5 +11,5 @@
 * [Oncall](support-oncall.md)
 * [Getting Support](getting-support.md)
 * [Troubleshooting](troubleshooting.md)
-* [Recources](recources.md)
+* [Resources](recources.md)
 
