@@ -10,7 +10,9 @@ There are three primary chat systems in use at CoreOS: IRC, Slack and Chatlio. F
 
 The second chat system in use is Slack \([https://coreos.slack.com/](https://coreos.slack.com/)\). Slack is used for all internal communications and is the best way to get a question quickly answered by another staff member.
 
-# ADD CHATLIO TO CHAT 
+# ADD CHATLIO TO CHAT
+
+ADD IRCCLOUD
 
 # ADD  SALESFORCE
 
