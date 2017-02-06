@@ -6,7 +6,7 @@ As members of the support team we are the first to interact with someone when th
 * It is OK to say no to a customer, but try to suggest a workaround and escalate if necessary.
 * Be enthusiastic, fast, agile, happy to be here and eager to help
 * Make our users day better, to teach them how to do things, to surprise them with speed and accuracy.
-* Become leaders in the support industry.
+* **Become leaders in the support industry.**
 
 
 
