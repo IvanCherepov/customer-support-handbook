@@ -1,6 +1,6 @@
 # Getting started {#docs-internal-guid-ff73ae78-d85a-9d96-98df-ed71f7acaae6}
 
-Most of your time will be spent in one of two places. In our[ chat](https://docs.google.com/document/d/1-vr6XnAZLkwvK90dahq813ka_h8X0hnPc76FWSNNK9E/edit#heading=h.sczldz6rf0dk) systems and in our[ ticketing](https://docs.google.com/document/d/1-vr6XnAZLkwvK90dahq813ka_h8X0hnPc76FWSNNK9E/edit#heading=h.b0eul6g9d7ai) system. Our service level agreement \(SLA\) for our customers is as follows:
+Most of your time will be spent in one of two places - in our[ chat](https://docs.google.com/document/d/1-vr6XnAZLkwvK90dahq813ka_h8X0hnPc76FWSNNK9E/edit#heading=h.sczldz6rf0dk) system and in our[ ticketing](https://docs.google.com/document/d/1-vr6XnAZLkwvK90dahq813ka_h8X0hnPc76FWSNNK9E/edit#heading=h.b0eul6g9d7ai) system . Our service level agreement \(SLA\) for our customers is as follows:
 
 | Standard Support | Premium Support |
 | :--- | :--- |
