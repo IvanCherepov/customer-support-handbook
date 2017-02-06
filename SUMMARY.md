@@ -1,11 +1,12 @@
 # Summary
 
 * [Introduction](README.md)
-* [Getting Started](chapter1.md)
-* [Expectations of the support team](expectations-of-the-support-team.md)
-* [Bootcamp](bootcamp.md)
-* [Tools](contacting-support.md)
 * [Vision](support-vision.md)
+* [Expectations of the support team](expectations-of-the-support-team.md)
+* [Getting Started](chapter1.md)
+  * [temp](chapter1/temp.md)
+  * [Tools](contacting-support.md)
+* [Bootcamp](bootcamp.md)
 * [Support Policy](tools.md)
 * [Handling ZenDesk tickets](handling-zendesk-tickets.md)
 * [Support Vision](support-vision.md)
