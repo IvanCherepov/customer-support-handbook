@@ -9,7 +9,6 @@
   * [Tools](contacting-support.md)
 * [Support Policy](tools.md)
 * [Handling ZenDesk tickets](handling-zendesk-tickets.md)
-* [Support Vision](support-vision.md)
 * [Recources](recources.md)
 * [Oncall](support-oncall.md)
 * [Getting Support](getting-support.md)
