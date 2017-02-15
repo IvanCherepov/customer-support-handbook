@@ -14,4 +14,5 @@
 * [Troubleshooting Guides](troubleshooting.md)
 * [Resources](recources.md)
 * [Team member is OOO](team-member-is-ooo.md)
+* [Welcome to the team!](welcome-to-the-team!.md)
 
