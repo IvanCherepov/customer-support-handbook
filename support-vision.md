@@ -2,5 +2,9 @@ In order to provide a cohesive experience for our customers at CoreOS our suppor
 
 [https://docs.google.com/document/d/1zER4zsiP1AOl\\_oD9LnDuKeNYrVIFdMjPyDwUB-n62Ug/edit](https://docs.google.com/document/d/1zER4zsiP1AOl\_oD9LnDuKeNYrVIFdMjPyDwUB-n62Ug/edit)
 
+![Local Image](./gitbook/images/the-six-levels-of-proactive-support.png>)
+
+
+
 
 
