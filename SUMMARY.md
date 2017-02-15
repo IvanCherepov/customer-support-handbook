@@ -12,7 +12,7 @@
 * [Oncall Policy](support-oncall.md)
 * [Problem Customers](problem-customers.md)
 * [Getting Support](getting-support.md)
+* [DO'S and DON'TS](do's-and-don'ts.md)
 * [Troubleshooting Guides](troubleshooting.md)
 * [Resources](recources.md)
-* [DO'S and DON'TS](do's-and-don'ts.md)
 

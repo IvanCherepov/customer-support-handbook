@@ -20,7 +20,7 @@ Your expectations in your first 12 months:
 
 * As an early member of the support team, help shape a fun, learning, collaborative, operationally excellent team culturure.
 
-Onboarding timeline:
+Sample onboarding timeline:
 
 | Timeframe | Activities | CoreOS Learning Goals |
 | :--- | :--- | :--- |
