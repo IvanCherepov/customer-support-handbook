@@ -38,7 +38,3 @@ This implies that you're reading or working on the ticket so if your not going t
 
 If you see a ticket with this icon that either you feel you can add value to it, or has been open for too long then please ask your teammate through Slack if he or she is still working on it. The person's name appears by hovering over the, ticket's title on the list view or by selecting the ticket and reading the "Also on this ticket" section on the top left. Notice that if a general account like GitLab Support is being used there is no name to refer to so you might want to ask on the support and/or general chat channel with the ticket's link.ze
 
-Ticket's escalation
-
-Marking a ticket as solved
-
