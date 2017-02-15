@@ -1,4 +1,4 @@
-## CoreOS links {#docs-internal-guid-d1445d9f-d84d-b0a5-f1b8-78ff45d1e68e}
+## CoreOS Recources {#docs-internal-guid-d1445d9f-d84d-b0a5-f1b8-78ff45d1e68e}
 
 Support policy [https://coreos.com/legal/support-policy/](https://coreos.com/legal/support-policy/).
 
