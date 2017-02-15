@@ -14,4 +14,5 @@
 * [Getting Support](getting-support.md)
 * [Troubleshooting Guides](troubleshooting.md)
 * [Resources](recources.md)
+* [DO'S and DON'TS](do's-and-don'ts.md)
 
