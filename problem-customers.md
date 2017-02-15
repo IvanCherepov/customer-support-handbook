@@ -1,6 +1,16 @@
 # Problem customers {#docs-internal-guid-312d65e4-d859-5337-c346-d20a3125d449}
 
-Jordan Sissel of the Logstash project coined the phrase: “If a newbie has a bad time, it’s a bug.”While not all of our customers will have a totally smooth experience we can still strive to deliver one that isn’t painful. Frustrated customers are a fact of life in the world of customer service and support. Often angry customers are less an issue of the product their opening a support issue about and more a product of the rest of their day. If someone is having a bad day and etcd loses quorum due to a bug or CoreOS reboots because a customer missed the documentation on locksmith this could just be the final straw which causes an explosion. 
+Genral rules in dealing with irritated customers:
+
+* Allow the customer to vent
+
+* Always use gentl language
+
+* Don't take it personally
+
+* Take a deep breath or a short walk before reply
+
+Jordan Sissel of the Logstash project coined the phrase: “If a newbie has a bad time, it’s a bug.”While not all of our customers will have a totally smooth experience we can still strive to deliver one that isn’t painful. Frustrated customers are a fact of life in the world of customer service and support. Often angry customers are less an issue of the product their opening a support issue about and more a product of the rest of their day. If someone is having a bad day and etcd loses quorum due to a bug or CoreOS reboots because a customer missed the documentation on locksmith this could just be the final straw which causes an explosion.
 
 The National Alliance on Mental Illness has a wonderful process for working with individuals in crisis. We do not want to imply that any of our customers are mentally ill, only that the LEAP \([http://naminc.org/nn/blet/bunc-de-escalation.ppt](http://naminc.org/nn/blet/bunc-de-escalation.ppt)\) strategy for de-escalation is a wonderful tool for calming individuals.
 
@@ -22,7 +32,7 @@ While it seems obvious, listening to our customersand letting them know we are l
 
 “That’s totally a bug and it’s not your fault.”
 
-Informing the customer that what happened was beyond their control removes any stigma or perceived failings they have. 
+Informing the customer that what happened was beyond their control removes any stigma or perceived failings they have.
 
 This will then make them more open to working with you and finding a resolution.
 
