@@ -1,6 +1,5 @@
 # Summary
 
-* [Cover](cover.jpg)
 * [Introduction](README.md)
 * [Welcome to the team!](welcome-to-the-team!.md)
 * [Vision](support-vision.md)
@@ -15,5 +14,4 @@
 * [Getting Support](getting-support.md)
 * [Troubleshooting Guides](troubleshooting.md)
 * [Resources](recources.md)
-* [Cover](cover.jpg)
 
