@@ -1,8 +1,8 @@
 # Summary
 
+* [Cover](cover.jpg)
 * [Introduction](README.md)
 * [Welcome to the team!](welcome-to-the-team!.md)
-* [Cover](cover.jpg)
 * [Vision](support-vision.md)
 * [Expectations of the support team](expectations-of-the-support-team.md)
 * [Getting Started](chapter1.md)
