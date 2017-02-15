@@ -4,7 +4,7 @@ Genral rules in dealing with irritated customers:
 
 * Allow the customer to vent
 
-* Always use gentl language
+* Always use gentle language
 
 * Don't take it personally
 
