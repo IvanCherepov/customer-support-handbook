@@ -1,6 +1,6 @@
 {
-    "title": "My Book",
-    "author": "Author",
+    "title": "CoreOS Support HandBook",
+    "author": "Ivan Cherapau",
     "pluginsConfig": {
         "autocover": {
             "font": {
