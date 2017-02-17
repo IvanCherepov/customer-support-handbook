@@ -8,7 +8,7 @@ Customer Success [https://sites.google.com/a/coreos.com/customersuccess/](https:
 
 Professional Services [https://sites.google.com/coreos.com/proserv/home](https://sites.google.com/coreos.com/proserv/home).
 
-
+---
 
 ### Team Resources
 
@@ -17,6 +17,4 @@ Slack Channels \#team-support, \#sales-support, \#team-paladin
 GitHub coreos-inc/support and coreos-inc/l3-support
 
 Google Drive team-support
-
-
 
