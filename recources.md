@@ -14,7 +14,7 @@ Professional Services [https://sites.google.com/coreos.com/proserv/home](https:/
 
 Slack Channels \#team-support, \#sales-support, \#team-paladin
 
-GitHub coreos-inc/support and coreos-inc/l3-support
+GitHub "coreos-inc/support" and "coreos-inc/l3-support"
 
-Google Drive team-support
+Google Drive "team-support"
 
