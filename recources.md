@@ -12,7 +12,7 @@ Professional Services [https://sites.google.com/coreos.com/proserv/home](https:/
 
 ### Team Resources
 
-Slack Channels \#team-support, \#sales-support, \#team-paladin
+Slack \#team-support, \#sales-support, \#team-paladin
 
 GitHub "coreos-inc/support" and "coreos-inc/l3-support"
 
