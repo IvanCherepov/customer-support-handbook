@@ -1,4 +1,6 @@
-Discounts.
+
+
+Getting and verifying customer licenses.
 
 Best practices for customer calls and meetings.
 
