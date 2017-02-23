@@ -1,4 +1,6 @@
-#                              CoreOS support team handbook
+#                                             The handbook
+
+####                                                               by CoreOS support team 
 
 ![](/images/cleric.jpg)
 
