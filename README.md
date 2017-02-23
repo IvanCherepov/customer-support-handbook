@@ -1,8 +1,10 @@
-# CoreOS support team handbook {#docs-internal-guid-2f4c2f73-d84b-4272-0399-79282cd5c4cb}
+#                              CoreOS support team handbook
 
-![](/cover.jpg)
+![](/images/cleric.jpg)
 
 ---
 
-**ivan.cherapau@coreos.com**
+###### **ivan.cherapau@coreos.com**
+
+
 
