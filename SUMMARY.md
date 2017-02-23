@@ -16,4 +16,5 @@
 * [Getting Support](getting-support.md)
 * [Resources](recources.md)
 * [TODO](todo.md)
+* [FAQ](faq.md)
 

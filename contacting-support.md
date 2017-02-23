@@ -1,6 +1,6 @@
 ### Ticketing
 
-We use Zendesk \([https://coreos.zendesk.com](https://coreos.zendesk.com)\) for our ticketing system.
+We use Zendesk \([https://coreos.zendesk.com](https://coreos.zendesk.com)\) as our ticketing system.
 
 Our internal users within the ticketing system are called agents. Zendesk allows us to track all correspondence with our users in a support capacity.  Zendesk also provides analytics so that we can group requests by product, see who our most active support customers are, and get averages on response times.
 
@@ -26,9 +26,9 @@ coreos-dev [https://groups.google.com/forum/\\#!forum/coreos-dev](https://groups
 
 ### **Commerce Systems**
 
-SalesForce https://www.salesforce.com/
+SalesForce [https://www.salesforce.com/](https://www.salesforce.com/)
 
-BillForward https://www.salesforce.com/
+BillForward [https://www.salesforce.com/](https://www.salesforce.com/)
 
-Stripe  https://stripe.com/
+Stripe  [https://stripe.com/](https://stripe.com/)
 
