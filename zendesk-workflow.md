@@ -1,12 +1,8 @@
-IN PROGRESS
-
-
+\[WORK IN PROGRESS\]
 
 Levels
 
-Macros 
+Macros
 
 Triggers
-
-
 
