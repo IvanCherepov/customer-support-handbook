@@ -10,6 +10,7 @@
   * [Tools](contacting-support.md)
 * [Handling ZenDesk tickets](handling-zendesk-tickets.md)
   * [How to write support emails](handling-zendesk-tickets/how-to-write-support-emails.md)
+* [Zendesk Workflow](zendesk-workflow.md)
 * [Problem Customers](problem-customers.md)
 * [Troubleshooting Guides](troubleshooting.md)
 * [Oncall Policy](support-oncall.md)
