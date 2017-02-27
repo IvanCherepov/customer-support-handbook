@@ -1,8 +1,8 @@
 \[WORK IN PROGRESS\]
 
-Levels
+Support Levels: L1, L2, L3
 
-Macros
+Macros: esacalate
 
-Triggers
+Triggers: page
 
