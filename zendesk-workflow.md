@@ -2,7 +2,7 @@
 
 Support Levels: L1, L2, L3
 
-Macros: esacalate
+Macros: esacalate ticket
 
-Triggers: page
+Triggers: page on-call engineer
 
