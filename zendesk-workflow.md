@@ -1,8 +1,15 @@
 \[WORK IN PROGRESS\]
 
-Support Levels: L1, L2, L3
+Support Levels.
 
-Macros: esacalate ticket
+* L1 TouchSupport
+* L2 Support team
+* L3 Engineers
 
-Triggers: page on-call engineer
+Macros and Triggers: 
+
+* Esacalate ticket
+* Page on-call engineer
+
+
 
