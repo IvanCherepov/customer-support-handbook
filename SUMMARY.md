@@ -8,7 +8,7 @@
 * [Getting Started](chapter1.md)
   * [Bootcamp](bootcamp.md)
   * [Tools](contacting-support.md)
-  * [Zendesk Workflow](zendesk-workflow.md)
+* [Zendesk Workflow](zendesk-workflow.md)
 * [Handling ZenDesk tickets](handling-zendesk-tickets.md)
   * [How to write support emails](handling-zendesk-tickets/how-to-write-support-emails.md)
 * [Problem Customers](problem-customers.md)
