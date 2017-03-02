@@ -6,9 +6,9 @@ Support Levels.
 * L2 Support team
 * L3 Engineers
 
-Macros and Triggers: 
+Macros and Triggers:
 
-* Esacalate ticket
+* Escalate ticket
 * Page on-call engineer
 
 
