@@ -1,6 +1,6 @@
 # Getting started {#docs-internal-guid-ff73ae78-d85a-9d96-98df-ed71f7acaae6}
 
-Most of your time will be spent in one of two places - in our chat systems and in our ticketing system . Our service level agreement \(SLA\) for our customers is as follows:
+Most of your time will be spent in one of two places - in our chat systems and in our ticketing system. Our service level agreement \(SLA\) for our customers is as follows:
 
 | Standard Support | Premium Support |
 | :--- | :--- |
