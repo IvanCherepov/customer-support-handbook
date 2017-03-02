@@ -14,7 +14,6 @@
 * [Problem Customers](problem-customers.md)
 * [Troubleshooting Guides](troubleshooting.md)
 * [Oncall Policy](support-oncall.md)
-* [Getting Support](getting-support.md)
 * [Resources](recources.md)
 * [FAQ](faq.md)
 * [TODO](todo.md)
