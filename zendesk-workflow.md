@@ -4,14 +4,12 @@ Support Levels.
 
 * L1 TouchSupport
 * L2 Support team
-* L3 Engineers
+* L3 Engineering team
 
 Macros and Triggers:
 
 * Escalate ticket
 * Page on-call engineer
-
-
 
 #### Email Support Flow
 
@@ -34,6 +32,4 @@ Phone calls are answered by non-technical staff. The initial conversation has th
 **Normal \(P3\)**: any incident which causes moderate impact to business operations.  Operations are minimally degraded or fully functional.
 
 **Low \(P4\)**: any incident which causes low or no impact on business operations.  Includes general inquiries, questions, or recommendations for product enhancements.
-
-
 
