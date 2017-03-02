@@ -18,15 +18,17 @@ Your expectations in your first 12 months:
 
 * Proactively build relationships and trust with your colleagues across the company so that you find mentors and grow your influence and impact.
 
-* As an early member of the support team, help shape a fun, learning, collaborative, operationally excellent team culturure.
+* As an early member of the support team, help shape a fun, learning, collaborative, operationally excellent team culture
+
+  .
 
 Sample onboarding timeline:
 
 | Timeframe | Activities | CoreOS Learning Goals |
 | :--- | :--- | :--- |
-| By end of week 1 | Get into all of our systems and channels: HelpScout, ZenDesk, IRC, dev mailing listsCreate account on KamStart monitoring and responding CoreOS-users and CoreOS-devLook at company and support team OKRsRead first three chapters O’Reilly DNS and BindBegin looking at Quay.io tickets | CoreOS systems, processes, products at a high levelQuay: how to identify problems with initial setup and configuration |
+| By end of week 1 | Get into all of our systems and channels: HelpScout, ZenDesk, IRC, dev mailing listsCreate account on KamStart monitoring and responding CoreOS-users and CoreOS-devLook at company and support team OKRsRead first three chapters O’Reilly DNS and BindBegin looking at Quay.io tickets | CoreOS systems, processes, products at a high-level Quay: how to identify problems with initial setup and configuration |
 | By end of week 2 | Get familiar with local hardware labInstall 3 machines via PXE | Requirements for deploying CoreOS Linux on bare metalArchitecture, use cases, common failure points of QuayGet to know the Quay team |
-| By end of the first month | Start monitoring and responding on etcd mailing listGet a kubernetes cluster up and running | Deploy Tectonic in a multi-node configurationDeploy multiple examples k8s applications across tectonic |
+| By end of the first month | Start monitoring and responding on etcd mailing list. Get a Kubernetes cluster up and running | Deploy Tectonic in a multi-node configurationDeploy multiple examples k8s applications across tectonic |
 | By end of the third month | Handling 75% of tickets without escalatingProvide product feedback to multiple teams |  |
 
 |  |  |
