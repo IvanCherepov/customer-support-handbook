@@ -44,3 +44,7 @@ Getting to know Zendesk [https://support.zendesk.com/hc/en-us/sections/200608513
 
 Agent Guide [https://support.zendesk.com/hc/en-us/sections/200625646-Agent-Guide?page=1\#articles](https://support.zendesk.com/hc/en-us/sections/200625646-Agent-Guide?page=1#articles)
 
+**Reference**
+
+https://about.gitlab.com/handbook/support/onboarding/\#handling-tickets
+
