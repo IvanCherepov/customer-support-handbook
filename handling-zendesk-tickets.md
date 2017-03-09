@@ -1,6 +1,6 @@
 **Assiginng a ticket**
 
-Assign a ticket to yourself the moment you decide you are going to work on it. If the nature of the problem requires you to investigate further, let the customer know that you need further time to investigate, assign the ticket to yourself, and submit the reply. By assigning the ticket to yourself you are letting your team members know that you will work with this customer and by replying to the customer, even if you need further time to craft a proper answer, you are acknowledging their request.
+Assign a ticket to yourself the moment you decide you are going to work on it. If the nature of the problem requires you to investigate further, let the customer know that you need further time to investigate, assign the ticket to yourself, and submit the reply. By assigning the ticket to yourself you are letting your team members know that you will work with this customer and by replying to the customer, even if you need further time to craft a proper answer, you are acknowledging their request. Read [avoiding agent collision](https://support.zendesk.com/hc/en-us/articles/203690856?_ga=1.89873371.1793775136.1486673383#topic_ryy_42g_vt) article!
 
 **Point to documentation**
 
@@ -46,5 +46,5 @@ Agent Guide [https://support.zendesk.com/hc/en-us/sections/200625646-Agent-Guide
 
 **Reference**
 
-https://about.gitlab.com/handbook/support/onboarding/\#handling-tickets
+[https://about.gitlab.com/handbook/support/onboarding/\#handling-tickets](https://about.gitlab.com/handbook/support/onboarding/#handling-tickets)
 
