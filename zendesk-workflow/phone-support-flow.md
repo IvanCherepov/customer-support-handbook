@@ -4,3 +4,7 @@ Phone calls are answered by non-technical staff. The initial conversation has th
 
 **Enterprise Support** customers may request a callback.
 
+![](/images/CoreOS Call Workflow.jpg)
+
+
+

@@ -1,6 +1,6 @@
-\[WORK IN PROGRESS\]
+**Support Levels**
 
-There are four support levels\(L1,L2,L3,L4\)
+There are four support levels- L1,L2,L3,L4:
 
 1. TouchSupport Tier1 agents
 2. TouchSupport Tier2 agents
