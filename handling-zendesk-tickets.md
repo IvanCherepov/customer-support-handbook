@@ -1,6 +1,6 @@
 **Assiginng a ticket**
 
-Assign a ticket to yourself the moment you decide you are going to work on it. If the nature of the problem requires you to investigate further, let the customer know that you need further time to investigate, assign the ticket to yourself, and submit the reply. By assigning the ticket to yourself you are letting your team members know that you will work with this customer and by replying to the customer, even if you need further time to craft a proper answer, you are acknowledging their request. Read [avoiding agent collision](https://support.zendesk.com/hc/en-us/articles/203690856?_ga=1.89873371.1793775136.1486673383#topic_ryy_42g_vt) article!
+Assign a ticket to yourself the moment you decide you are going to work on it. If the nature of the problem requires you to investigate further, let the customer know that you need further time to investigate, assign the ticket to yourself, and submit the reply. By assigning the ticket to yourself you are letting your team members know that you will work with this customer and by replying to the customer, even if you need further time to craft a proper answer, you are acknowledging their request. Read [avoiding agent collision](https://support.zendesk.com/hc/en-us/articles/203690856?_ga=1.89873371.1793775136.1486673383#topic_ryy_42g_vt) article.
 
 **Point to documentation**
 
@@ -22,6 +22,8 @@ Sometimes a customer will send an email to ask for a response to an issue that w
 
 Do not hesitate to ask for help with a ticket, you can ask any of your colleagues to assist you. You can do this via Slack initially by [@mentioning](https://get.slack.help/hc/en-us/articles/205240127-Using-mentions) their name and providing a link to the description with an overview of the issue. If the person you know can help you the best \(expert on a specific topic\) is not available on Slack, you can assign the ticket to them, add a comment summarizing the situation, and submit the ticket as **open**. Especially if you do are not yet fully familiar with the particular topic of the issue, don't spend more than 30 minutes on an issue before escalating it internally.
 
+
+
 **When to mark a ticket as solved?**
 
 A ticket can be marked as solved when you are certain that you were able to resolve the requester's problem, or, as mentioned above when many days go by without a reply from the requester. The exception to this rule is in social media support channels that do not integrate well with ZenDesk such as Disqus, the Forum, Stack Overflow, and others, where each comment creates a new ticket. In those cases, you can close the ticket as soon as you have provided a response \(and also close the ticket created by your own response\).
@@ -37,6 +39,10 @@ When you are viewing a ticket teammates see an eye icon on the left of the ticke
 This implies that you're reading or working on the ticket so if you're not going to handle it make sure to close it by closing the tab at the upper section of the screen that has the ticket's title.
 
 If you see a ticket with this icon that either you feel you can add value to it, or has been open for too long then please ask your teammate through Slack if he or she is still working on it. The person's name appears by hovering over the, ticket's title on the list view or by selecting the ticket and reading the "Also on this ticket" section on the top left. Notice that if a general account like GitLab Support is being used there is no name to refer to so you might want to ask on the support and/or general chat channel with the ticket's link.
+
+**Unsure what to do with a ticket**
+
+Each producs has its own L4 group specifically for developers. Add tag`stuck_interna ` when the ticket is assisned to engineers and we dont have a clear path forward.  The combination of the stuck tags and L4 groups will be used to manage and message escalations internally
 
 **More information**
 
