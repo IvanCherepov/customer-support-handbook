@@ -1,4 +1,4 @@
-### Ticketing
+### Ticketing system
 
 We use [Zendesk](https://coreos.zendesk.com) as our ticketing system.
 
@@ -20,13 +20,13 @@ We use Google Hangouts for online meetings.
 
 ### Google Groups
 
-[coreos-user](https://groups.google.com/forum/\#!forum/coreos-user)
+[coreos-user](https://groups.google.com/forum/#!forum/coreos-user)
 
-[coreos-dev](https://groups.google.com/forum/\#!forum/coreos-dev) 
+[coreos-dev](https://groups.google.com/forum/#!forum/coreos-dev)
 
 ### **Commerce Systems**
 
-[SalesForce](https://www.salesforce.com/) 
+[SalesForce](https://www.salesforce.com/)
 
 [BillForward](https://app.billforward.net/)
 
