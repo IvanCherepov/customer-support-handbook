@@ -9,6 +9,8 @@
   * [Bootcamp](bootcamp.md)
   * [Tools](contacting-support.md)
 * [Support Workflow](zendesk-workflow.md)
+  * [Email Support Flow](zendesk-workflow/email-support-flow.md)
+  * [Phone Support Flow](zendesk-workflow/phone-support-flow.md)
 * [Handling ZenDesk tickets](handling-zendesk-tickets.md)
   * [How to write support emails](handling-zendesk-tickets/how-to-write-support-emails.md)
   * [Marcros, Triggers, Tags](handling-zendesk-tickets/marcros-triggers-tags.md)

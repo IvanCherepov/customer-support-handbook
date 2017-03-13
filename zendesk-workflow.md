@@ -17,18 +17,6 @@ There are four support levels\(L1,L2,L3,L4\)
 
 **Low \(P4\)**: any incident which causes low or no impact on business operations.  Includes general inquiries, questions, or recommendations for product enhancements.
 
-#### Email Support Flow
-
-After a ticket has been received it is triaged by a Tier I support staff. The goal of this triage is  to determine the priority level of the issue. An initial email will be sent to ensure that the ticket has been received and reviewed. Issues will be responded according to the per-customer defined SLA. Contact your Sales Engineer to retrieve a copy of your SLA.
-
-**Enterprise Support** customers can define the priority level of their issues at will.
-
-#### Phone Support Flow
-
-Phone calls are answered by non-technical staff. The initial conversation has the goal of defining who the customer is, which product is affected, and the priority level of the issue. The receptionist will ask for contact information such as the customer name, email, and a call back number. A ticket will be logged and responded to according to the per-customer defined SLA. Most issues will receive an email response from a technical support engineer.
-
-**Enterprise Support** customers may request a callback.
-
 ### 
 
 
