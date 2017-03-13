@@ -1,8 +1,7 @@
 After general onboarding process, please follow next steps:
 
-[Ask infra](https://github.com/coreos-inc/infra/blob/master/REQUESTS.md) for an AWS account
-
-Ask your team member to add you to Zendesk, Quay CoreOS organization.
+1. [Ask infra](https://github.com/coreos-inc/infra/blob/master/REQUESTS.md) for an AWS account
+2. Ask your team member to add you to Zendesk and Quay
 
 Your expectations in your first 12 months:
 
