@@ -11,6 +11,7 @@
 * [Support Workflow](zendesk-workflow.md)
 * [Handling ZenDesk tickets](handling-zendesk-tickets.md)
   * [How to write support emails](handling-zendesk-tickets/how-to-write-support-emails.md)
+  * [Marcros, Triggers, Tags](handling-zendesk-tickets/marcros-triggers-tags.md)
 * [Problem Customers](problem-customers.md)
 * [Troubleshooting Guides](troubleshooting.md)
 * [Oncall Policy](support-oncall.md)
