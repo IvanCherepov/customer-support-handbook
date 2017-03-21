@@ -12,7 +12,9 @@
 
 Slack \#team-support, \#sales-support, \#team-paladin
 
-GitHub "coreos-inc/support" and "coreos-inc/l3-support"
+Zendesk [knowledge base](https://support.tectonic.com/hc/en-us)
+
+GitHub [coreos-inc/support](http://github.com/coreos-inc/support) and [coreos-inc/l3-support](https://github.com/coreos-inc/l3-support/)
 
 Google Drive "team-support"
 
