@@ -1,8 +1,8 @@
 Short term
 
-* [ ] Macros and Triggers add descriptions
+* [ ]  add descriptions to "Macros and Triggers" article
 
-* [ ] Rewrite Handling Zendesk Tickets chapter
+* [ ] Rewrite "Handling Zendesk Tickets" chapter
 
 * [ ] What to do if you received a negative feedback\(follow up or not, how to follow up, what to expect\)
 
