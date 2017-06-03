@@ -13,7 +13,7 @@ From Slack, you can find out who is oncall by using the command`/oncall`. The su
 
 ### More Information
 
-Pagerdutyhas published great [guide](https://response.pagerduty.com/oncall/being\_oncall/.) for being on-call.
+Pagerdutyhas published great [guide](https://response.pagerduty.com/oncall/being_oncall/.) and a [response guide](https://response.pagerduty.com/) for being on-call.
 
 "[Being On Call"](https://landing.google.com/sre/book/chapters/being-on-call.html) chapter from Google's "Site Reliability Engineering" book.
 
