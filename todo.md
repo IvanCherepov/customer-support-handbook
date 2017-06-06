@@ -4,13 +4,17 @@ Short term
 
 * [ ] Rewrite "Handling Zendesk Tickets" chapter
 
+  * [ ] make it closer to reality :\)
+
+  * [ ] remove unneccessary templates
+
 ---
 
 Long term
 
-* [ ] Best practices for customer calls and meetings \(writing an agenda before the meeting, taking notes, follow-ups\)
+* [ ] Best practices for customer calls and meetings \(write an agenda before the meeting, be prepared, take notes, follow up\)
 
-* [ ] Phone system
+* [ ] Phones
 
 
 
