@@ -42,7 +42,11 @@ If you see a ticket with this icon that either you feel you can add value to it,
 
 Each product has its own L4 group specifically for developers. Add a tag`stuck_internal` when the ticket is assigned to engineers and we don't have a clear path forward.  The combination of the stuck tags and L4 groups will be used to manage and message escalations internally.
 
+**After you received a negative feedback**
 
+* Follow up on your tickets rated 'Bad'. Always ask what you could do better. Almost 50% of bad satisfactions leave some sort of open feedback. Read it, follow up, turn it around.
+* Write a short explanation and discuss the ticket with your peers.
+* Notify your manager when bad feedback come in.
 
 **More information**
 
