@@ -6,7 +6,7 @@ Our internal users within the ticketing system are called agents. Zendesk allows
 
 ### Chat
 
-There are three primary chat systems in use at CoreOS: IRC, Slack and Chatlio.
+There are three primary chat systems in use at CoreOS: IRC, Slack, and Chatlio.
 
 For community-based support, we use the channel\#coreos on the IRC network Freenode. This provides us a place where we can collaborate with community contributors/developers, answer questions from users, and share information about the direction of our various projects. There is a [public facing log](https://botbot.me/freenode/coreos/) of all chat messages. Remember, ALL messages are logged. We all like kidding around, but if there is something that could be construed as embarrassing, insulting, or downright rude it’s probably best to not say it in a place that will be logged in perpetuity.  We have a CoreOS team on [IRCCloud](https://www.irccloud.com/) which grants unlimited access.
 
