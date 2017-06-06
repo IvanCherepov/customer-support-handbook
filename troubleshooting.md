@@ -20,6 +20,8 @@
 
 [Tectonic](https://tectonic.com/docs/)
 
+[Quay.io](https://docs.quay.io/)
+
 [Quay Enterprise](https://tectonic.com/quay-enterprise/docs/latest/)
 
 [Container Linux](https://coreos.com/os/docs/latest/)

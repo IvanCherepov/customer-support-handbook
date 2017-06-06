@@ -36,11 +36,11 @@ When you are viewing a ticket teammates see an eye icon on the left of the ticke
 
 This implies that you're reading or working on the ticket so if you're not going to handle it make sure to close it by closing the tab at the upper section of the screen that has the ticket's title.
 
-If you see a ticket with this icon that either you feel you can add value to it, or has been open for too long then please ask your teammate through Slack if he or she is still working on it. The person's name appears by hovering over the, ticket's title on the list view or by selecting the ticket and reading the "Also on this ticket" section on the top left. Notice that if a general account like GitLab Support is being used there is no name to refer to so you might want to ask on the support and/or general chat channel with the ticket's link.
+If you see a ticket with this icon that either you feel you can add value to it, or has been open for too long then please ask your teammate through Slack if he or she is still working on it. The person's name appears by hovering over the ticket's title on the list view or by selecting the ticket and reading the "Also on this ticket" section on the top left. 
 
 **Unsure what to do with a ticket**
 
-Each producs has its own L4 group specifically for developers. Add tag`stuck_interna` when the ticket is assisned to engineers and we dont have a clear path forward.  The combination of the stuck tags and L4 groups will be used to manage and message escalations internally
+Each product has its own L4 group specifically for developers. Add a tag`stuck_internal` when the ticket is assigned to engineers and we don't have a clear path forward.  The combination of the stuck tags and L4 groups will be used to manage and message escalations internally
 
 **More information**
 
