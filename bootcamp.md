@@ -25,8 +25,8 @@ Sample onboarding timeline:
 | :--- | :--- | :--- |
 | By end of week 1 | Get into all of our systems:ZenDesk,    IRC, mailing lists.                                   Start monitoring and responding to      CoreOS-users and CoreOS-dev.             Look at company and support team    OKRs.                                                    Read first three chapters O’Reilly DNS and Bind.                                               Begin looking at Quay.io tickets | CoreOS systems, processes, products at a high-level.                                      Quay: how to identify problems with initial setup and configuration |
 | By end of week 2 | Get familiar with local hardware lab      Install 3 machines via PXE | Requirements for deploying CoreOS    Container Linux on bare metal                                 Architecture, use cases, common         failure points of Quay.                          Get to know the Quay team |
-| By end of the first month | Start monitoring and responding on      etcd mailing list.                                   Get a Tectonic cluster up and running | Deploy Tectonic in a multi-node configuration.  |
-| By end of the third month | Handling 75% of tickets without escalating                                                        Provide product feedback to multiple   teams | Deploy multimple example k8s             applications across Tectonic                   |
+| By end of the first month | Start monitoring and responding on      etcd mailing list.                                   Get a Tectonic cluster up and running | Deploy Tectonic in a multi-node configuration. |
+| By end of the third month | Handling 75% of tickets without escalating                                                        Provide product feedback to multiple   teams | Deploy multimple example k8s             applications across Tectonic |
 
 
 
