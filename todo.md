@@ -2,7 +2,7 @@ Short term
 
 * [ ] Finish "Macros and Triggers" article
 
-* [ ] Rewrite "Handling Zendesk Tickets" chapter 
+* [ ] Rewrite "Handling Zendesk Tickets" chapter
 
 ---
 
