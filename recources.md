@@ -12,7 +12,7 @@
 
 Slack \#team-support, \#sales-support, \#team-paladin
 
-Zendesk [knowledge base](https://support.tectonic.com/hc/en-us)
+Zendesk [knowledge base](https://support.coreos.com/hc/en-us)
 
 GitHub [coreos-inc/support](http://github.com/coreos-inc/support) and [coreos-inc/l3-support](https://github.com/coreos-inc/l3-support/)
 
