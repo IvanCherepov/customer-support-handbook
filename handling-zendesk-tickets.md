@@ -8,7 +8,7 @@ As a general rule, you should always include a link to the applicable documentat
 
 **Create issues**
 
-During your interaction with the customers, you will most likely need to create or update an issue, either for a feature request, for a bug, or for further documentation. Since we do everything in the open, it is good practice to send the link of the issue to the requesting customer, so that they can also keep an eye on the discussion there, and weigh in if necessary.
+During your interaction with the customers, you will most likely need to create or update an issue, either for a feature request, for a bug, or for further documentation. It is good practice to add the link of the issue to the ticket, so that it's easy to track a progress.
 
 **After the first response**
 
@@ -36,11 +36,13 @@ When you are viewing a ticket teammates see an eye icon on the left of the ticke
 
 This implies that you're reading or working on the ticket so if you're not going to handle it make sure to close it by closing the tab at the upper section of the screen that has the ticket's title.
 
-If you see a ticket with this icon that either you feel you can add value to it, or has been open for too long then please ask your teammate through Slack if he or she is still working on it. The person's name appears by hovering over the ticket's title on the list view or by selecting the ticket and reading the "Also on this ticket" section on the top left. 
+If you see a ticket with this icon that either you feel you can add value to it, or has been open for too long then please ask your teammate through Slack if he or she is still working on it. The person's name appears by hovering over the ticket's title on the list view or by selecting the ticket and reading the "Also on this ticket" section on the top left.
 
 **Unsure what to do with a ticket**
 
-Each product has its own L4 group specifically for developers. Add a tag`stuck_internal` when the ticket is assigned to engineers and we don't have a clear path forward.  The combination of the stuck tags and L4 groups will be used to manage and message escalations internally
+Each product has its own L4 group specifically for developers. Add a tag`stuck_internal` when the ticket is assigned to engineers and we don't have a clear path forward.  The combination of the stuck tags and L4 groups will be used to manage and message escalations internally.
+
+
 
 **More information**
 
