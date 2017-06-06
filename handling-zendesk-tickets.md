@@ -12,7 +12,7 @@ During your interaction with the customers, you will most likely need to create 
 
 **After the first response**
 
-In most cases when you reply to a customer you expect a reply back. In this case, the ticket should be marked as `Pending`. If this ticket doesn't receive a reply within 7 days, you should follow up with the customer. If this is your second response without a reply you can mark the ticket as solved at this point, otherwise ask them if they still need help or have further questions.
+In most cases when you reply to a customer you expect a reply back. In this case, the ticket should be marked as `Pending`. If this ticket doesn't receive a reply within three days, you should follow up with the customer. If this is your second response without a reply you can mark the ticket as solved at this point, otherwise ask them if they still need help or have further questions.
 
 When a feature request or the fix for a bug has been scheduled for a future release, you should let the customer know about the version for which this has been scheduled.
 
@@ -20,9 +20,7 @@ Sometimes a customer will send an email to ask for a response to an issue that w
 
 **When and how to escalate a ticket?**
 
-Do not hesitate to ask for help with a ticket, you can ask any of your colleagues to assist you. You can do this via Slack initially by [@mentioning](https://get.slack.help/hc/en-us/articles/205240127-Using-mentions) their name and providing a link to the description with an overview of the issue. If the person you know can help you the best \(expert on a specific topic\) is not available on Slack, you can assign the ticket to them, add a comment summarizing the situation, and submit the ticket as **open**. Especially if you do are not yet fully familiar with the particular topic of the issue, don't spend more than 30 minutes on an issue before escalating it internally.
-
-
+Do not hesitate to ask for help with a ticket, you can ask any of your colleagues to assist you. You can do this via Slack initially by [@mentioning](https://get.slack.help/hc/en-us/articles/205240127-Using-mentions) their name and providing a link to the description with an overview of the issue. If the person you know can help you the best \(expert on a specific topic\) is not available on Slack, you can assign the ticket to them, add a comment summarizing the situation, and submit the ticket as **open**. If you are not fully familiar with the particular topic of the issue, don't spend more than 30 minutes on an issue before escalating it internally.
 
 **When to mark a ticket as solved?**
 
@@ -42,7 +40,7 @@ If you see a ticket with this icon that either you feel you can add value to it,
 
 **Unsure what to do with a ticket**
 
-Each producs has its own L4 group specifically for developers. Add tag`stuck_interna ` when the ticket is assisned to engineers and we dont have a clear path forward.  The combination of the stuck tags and L4 groups will be used to manage and message escalations internally
+Each producs has its own L4 group specifically for developers. Add tag`stuck_interna` when the ticket is assisned to engineers and we dont have a clear path forward.  The combination of the stuck tags and L4 groups will be used to manage and message escalations internally
 
 **More information**
 
