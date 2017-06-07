@@ -10,11 +10,18 @@
 
 ### Team Resources
 
-Slack \#team-support, \#sales-support, \#team-paladin
+Slack 
 
-Zendesk [Knowledge Base](https://support.coreos.com/hc/en-us)
+* \#team-support
+* \#sales-support
+* \#team-paladin
 
-GitHub [coreos-inc/support](http://github.com/coreos-inc/support) and [coreos-inc/l3-support](https://github.com/coreos-inc/l3-support/)
+ [Knowledge Base](https://support.coreos.com/hc/en-us)
 
-Google Drive "team-support"
+GitHub 
+
+* [coreos-inc/support](http://github.com/coreos-inc/support)
+* [coreos-inc/l3-support](https://github.com/coreos-inc/l3-support/)
+
+Google Drive [team-support](https://drive.google.com/drive/folders/0B9nYDkFd8ObmTzQxLVIwZmxhVjQ)
 
