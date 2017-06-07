@@ -50,11 +50,13 @@ Each product has its own L4 group specifically for developers. Add a tag`stuck_i
 
 **More information**
 
-Getting to know Zendesk [https://support.zendesk.com/hc/en-us/sections/200608513-Getting-to-know-Zendesk](https://support.zendesk.com/hc/en-us/sections/200608513-Getting-to-know-Zendesk)
+Zendesk
 
-Agent Guide [https://support.zendesk.com/hc/en-us/sections/200625646-Agent-Guide?page=1\#articles](https://support.zendesk.com/hc/en-us/sections/200625646-Agent-Guide?page=1#articles)
+1. [Getting to know Zendesk](https://support.zendesk.com/hc/en-us/sections/200608513-Getting-to-know-Zendesk) 
+2. [Agent Guide ](https://support.zendesk.com/hc/en-us/sections/200625646-Agent-Guide?page=1#articles)
+3. [Tips for higher CSAT](https://support.zendesk.com/hc/en-us/articles/204232443-5-crazy-tips-for-higher-customer-satisfaction-ratings-that-really-work-) 
 
 **Reference**
 
-[https://about.gitlab.com/handbook/support/onboarding/\#handling-tickets](https://about.gitlab.com/handbook/support/onboarding/#handling-tickets)
+[GitLab Handbook](https://about.gitlab.com/handbook/support/onboarding/#handling-tickets)
 

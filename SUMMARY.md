@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [Book Cover](README.md)
 * [Welcome to the team!](welcome-to-the-team!.md)
 * [Vision](support-vision.md)
 * [Expectations of the support team](expectations-of-the-support-team.md)
