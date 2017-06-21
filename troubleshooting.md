@@ -1,6 +1,6 @@
 **Troubleshooting Guides**
 
-[Tectonic](https://coreos.com/tectonic/docs/latest/install/aws/troubleshooting.html)
+[Tectonic](https://github.com/coreos/tectonic-installer/tree/master/Documentation/troubleshooting)
 
 [Kubernetes](https://kubernetes.io/docs/troubleshooting/)
 

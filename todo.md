@@ -1,10 +1,12 @@
 Short term
 
+* [ ] Escalation Policies\(L3 --&gt; L4\)
+
 * [ ] Finish "Macros and Triggers" article
 
 * [ ] Rewrite "Handling Zendesk Tickets" chapter
 
-  * [ ] make it closer to reality :\)
+  * [ ] make it closer to reality
 
   * [ ] remove unneccessary templates
 
