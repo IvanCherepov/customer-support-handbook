@@ -6,8 +6,6 @@
 
 [Customer Success](https://sites.google.com/a/coreos.com/customersuccess/)
 
-[Professional Services ](https://sites.google.com/coreos.com/proserv/home)
-
 [People](https://sites.google.com/coreos.com/people/home?authuser=0)
 
 ### Team Resources
