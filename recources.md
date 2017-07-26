@@ -8,6 +8,8 @@
 
 [Professional Services ](https://sites.google.com/coreos.com/proserv/home)
 
+[People](https://sites.google.com/coreos.com/people/home?authuser=0)
+
 ### Team Resources
 
 [Slack](https://coreos.slack.com/)

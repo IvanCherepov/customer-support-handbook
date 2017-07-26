@@ -2,6 +2,8 @@ Short term
 
 * [ ] Escalation Policies\(L3 --&gt; L4\)
 
+* [ ] Incident response
+
 * [ ] Finish "Macros and Triggers" article
 
 * [ ] Rewrite "Handling Zendesk Tickets" chapter
@@ -17,6 +19,8 @@ Long term
 * [ ] Best practices for customer calls and meetings \(write an agenda before the meeting, be prepared, take notes, follow up\)
 
 * [ ] Phones
+
+
 
 
 
