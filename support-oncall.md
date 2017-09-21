@@ -11,7 +11,15 @@ We use [PagerDuty](http://gitlab.pagerduty.com/) to set the on-call schedules an
 
 From Slack, you can find out who is on-call by using the command`/oncall`. The support engineer on-call is listed next to the `CoreOS Customer Support`entry.
 
-### **When to escalate  to L4**
+### How to escalate to L3
+
+To request an escalation:
+
+1. Click Apply Macro at the bottom of the page.
+2. Choose Page On Call to page the on-call support person.
+3. Choose Page L3 Support Engineer to page the on-call support engineer.
+
+### **When to escalate to L4**
 
 1. Urgent issues, production is likely down for a customer
 2. Non-urgent issue, but engineering input is required
