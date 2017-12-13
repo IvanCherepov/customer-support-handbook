@@ -6,22 +6,22 @@
 
 [Customer Success](https://sites.google.com/a/coreos.com/customersuccess/)
 
-[Professional Services ](https://sites.google.com/coreos.com/proserv/home)
+[People](https://sites.google.com/coreos.com/people/home?authuser=0)
 
 ### Team Resources
 
-Slack 
+[Slack](https://coreos.slack.com/)
 
 * \#team-support
 * \#sales-support
 * \#team-paladin
 
- [Knowledge Base](https://support.coreos.com/hc/en-us)
-
-GitHub 
+GitHub
 
 * [coreos-inc/support](http://github.com/coreos-inc/support)
 * [coreos-inc/l3-support](https://github.com/coreos-inc/l3-support/)
 
 Google Drive [team-support](https://drive.google.com/drive/folders/0B9nYDkFd8ObmTzQxLVIwZmxhVjQ)
+
+[Knowledge Base](https://support.coreos.com/hc/en-us)
 
