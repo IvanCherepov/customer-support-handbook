@@ -1,0 +1,14 @@
+piVersion: v1
+kind: Service
+metadata:
+  name: gitserver
+  namespace: team-support
+  labels:
+    app: gitserver
+spec:
+  ports:
+    # the port that this service should serve on
+  - port: 4000
+  selector:
+    app: gitserver
+  type: LoadBalancer
