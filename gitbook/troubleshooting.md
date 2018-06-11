@@ -4,7 +4,11 @@
 
 [Kubernetes](https://kubernetes.io/docs/troubleshooting/)
 
-[RedHat's Kubernetes troubleshooting guide](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux_atomic_host/7/html/getting_started_with_kubernetes/troubleshooting_kubernetes)
+[Cloud.gov - Kubernetes Runbook ](https://cloud.gov/docs/ops/runbook/troubleshooting-kubernetes/)
+
+[Codefresh - Recover a Broken Cluster](https://codefresh.io/Kubernetes-Tutorial/recover-broken-kubernetes-cluster/)
+
+[RedHat - Kubernetes troubleshooting guide](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux_atomic_host/7/html/getting_started_with_kubernetes/troubleshooting_kubernetes)
 
 [Kubernetes on CoreOS](https://coreos.com/kubernetes/docs/latest/network-troubleshooting.html)
 
